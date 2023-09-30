@@ -1,1 +1,1 @@
-data structure implementing in C
+Using C to implement data structures
